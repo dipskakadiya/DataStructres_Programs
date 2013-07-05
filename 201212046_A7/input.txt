@@ -1,0 +1,2 @@
+In this assignment you will create a hash table that stores character strings
+
